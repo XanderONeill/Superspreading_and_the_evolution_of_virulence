@@ -8,4 +8,6 @@ Within the stochastic simulations folder are three subfolders in which the user 
 
 Within the Figure 3 folder is code in which the user can obtain the ESS curves found in Figure 3. This code uses the function d = d(c) as detailed in the main paper. However, it is straightforward to adapt this into d = 1 or instead choose one of the vulnerability or tolerance functions for h(c) as detailed in the main paper and in the respective deterministic/stochastic code folders. 
 
+Note, in all cases data is not stored here and does require the user to run the simulation code to get the data in order for the Figures to be obtained. 
+
 
